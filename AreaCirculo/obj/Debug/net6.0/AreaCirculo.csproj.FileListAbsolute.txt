@@ -1,0 +1,15 @@
+C:\Users\jslop\Desktop\Projetos csharp\AreaCirculo\obj\Debug\net6.0\AreaCirculo.csproj.AssemblyReference.cache
+C:\Users\jslop\Desktop\Projetos csharp\AreaCirculo\obj\Debug\net6.0\AreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jslop\Desktop\Projetos csharp\AreaCirculo\obj\Debug\net6.0\AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\jslop\Desktop\Projetos csharp\AreaCirculo\obj\Debug\net6.0\AreaCirculo.AssemblyInfo.cs
+C:\Users\jslop\Desktop\Projetos csharp\AreaCirculo\obj\Debug\net6.0\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\jslop\Desktop\Projetos csharp\AreaCirculo\bin\Debug\net6.0\AreaCirculo.exe
+C:\Users\jslop\Desktop\Projetos csharp\AreaCirculo\bin\Debug\net6.0\AreaCirculo.deps.json
+C:\Users\jslop\Desktop\Projetos csharp\AreaCirculo\bin\Debug\net6.0\AreaCirculo.runtimeconfig.json
+C:\Users\jslop\Desktop\Projetos csharp\AreaCirculo\bin\Debug\net6.0\AreaCirculo.dll
+C:\Users\jslop\Desktop\Projetos csharp\AreaCirculo\bin\Debug\net6.0\AreaCirculo.pdb
+C:\Users\jslop\Desktop\Projetos csharp\AreaCirculo\obj\Debug\net6.0\AreaCirculo.dll
+C:\Users\jslop\Desktop\Projetos csharp\AreaCirculo\obj\Debug\net6.0\refint\AreaCirculo.dll
+C:\Users\jslop\Desktop\Projetos csharp\AreaCirculo\obj\Debug\net6.0\AreaCirculo.pdb
+C:\Users\jslop\Desktop\Projetos csharp\AreaCirculo\obj\Debug\net6.0\AreaCirculo.genruntimeconfig.cache
+C:\Users\jslop\Desktop\Projetos csharp\AreaCirculo\obj\Debug\net6.0\ref\AreaCirculo.dll

@@ -1,0 +1,15 @@
+C:\Users\jslop\Desktop\Projetos csharp\Media1\obj\Debug\net6.0\Media1.csproj.AssemblyReference.cache
+C:\Users\jslop\Desktop\Projetos csharp\Media1\obj\Debug\net6.0\Media1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jslop\Desktop\Projetos csharp\Media1\obj\Debug\net6.0\Media1.AssemblyInfoInputs.cache
+C:\Users\jslop\Desktop\Projetos csharp\Media1\obj\Debug\net6.0\Media1.AssemblyInfo.cs
+C:\Users\jslop\Desktop\Projetos csharp\Media1\obj\Debug\net6.0\Media1.csproj.CoreCompileInputs.cache
+C:\Users\jslop\Desktop\Projetos csharp\Media1\bin\Debug\net6.0\Media1.exe
+C:\Users\jslop\Desktop\Projetos csharp\Media1\bin\Debug\net6.0\Media1.deps.json
+C:\Users\jslop\Desktop\Projetos csharp\Media1\bin\Debug\net6.0\Media1.runtimeconfig.json
+C:\Users\jslop\Desktop\Projetos csharp\Media1\bin\Debug\net6.0\Media1.dll
+C:\Users\jslop\Desktop\Projetos csharp\Media1\bin\Debug\net6.0\Media1.pdb
+C:\Users\jslop\Desktop\Projetos csharp\Media1\obj\Debug\net6.0\Media1.dll
+C:\Users\jslop\Desktop\Projetos csharp\Media1\obj\Debug\net6.0\refint\Media1.dll
+C:\Users\jslop\Desktop\Projetos csharp\Media1\obj\Debug\net6.0\Media1.pdb
+C:\Users\jslop\Desktop\Projetos csharp\Media1\obj\Debug\net6.0\Media1.genruntimeconfig.cache
+C:\Users\jslop\Desktop\Projetos csharp\Media1\obj\Debug\net6.0\ref\Media1.dll
