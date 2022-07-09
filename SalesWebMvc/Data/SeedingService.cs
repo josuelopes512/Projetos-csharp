@@ -21,7 +21,6 @@ namespace SalesWebMvc.Data
                _context.Seller.Any() ||
                _context.SalesRecord.Any())
             {
-                Console.WriteLine("ENTROU AQUI AAAA");
                 return;
             }
             
@@ -80,11 +79,11 @@ namespace SalesWebMvc.Data
             try
             {
                 _context.SaveChanges();
-                Console.WriteLine("Deu Bom");
+                Console.WriteLine("Alterações Salvas");
             }
             catch(Exception e)
             {
-                Console.WriteLine("Deu Ruim  "+e);
+                Console.WriteLine($"Deu Ruim  {e.StackTrace}");
             }
         }
     }
