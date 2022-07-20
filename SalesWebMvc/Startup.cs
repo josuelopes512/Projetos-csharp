@@ -27,8 +27,13 @@ namespace SalesWebMvc
         {
             services.AddControllersWithViews();
 
+            // services.AddDbContext<SalesWebMvcContext>(options =>
+            //         options.UseSqlite(Configuration.GetConnectionString("SalesWebMvcContext")));
+
             services.AddDbContext<SalesWebMvcContext>(options =>
-                    options.UseSqlite(Configuration.GetConnectionString("SalesWebMvcContext")));
+                    options.UseSqlServer(Configuration.GetConnectionString("SalesWebMvcContextSqlServer"),
+                    builder => builder.MigrationsAssembly("SalesWebMvc")
+            ));
             services.AddScoped<SeedingService>();
         }
 
